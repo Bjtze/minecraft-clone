@@ -1,0 +1,11 @@
+==========UPDATES==========
+1- Added Mob2 & Mob death animation ➕
+2- Added Sky Texture ➕
+3- Fixed wonky health bar 🔧
+4- Added weapons and cooldowns ➕
+5- Made Mob A boss ➕
+6- Fixed bug: "AttributeError: 'Mob2Spawner' object has no attribute 'hit_points'"  when player tries to destroy Mob2Spawner 🪲
+7- Added hit points to Mobs ➕
+8- Added fireballs ➕
+9- Fixed health bar overlap with Health_bar_bg 🔧
+10- Created Updates.txt ➕
