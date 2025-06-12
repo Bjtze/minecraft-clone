@@ -23,7 +23,7 @@ python index.py
 INSTRUCTIONS IN MORE DETAIL
 
 DOWNLOADING THE ZIP:
-1- download this project as a .zip file, by clicking the 🟩green🟩 "<code>" button, then selecting "download as .zip.
+1- download this project as a .zip file, by clicking the 🟩green🟩 "<> code" button, then selecting "download as .zip.
 2- go to downloads, then look for a folder named "game (v0.3).zip". Right click on the folder, and select "EXTRACT AS ZIP📤"
 
 DIRECTING TO THE CORRECT FOLDER:
