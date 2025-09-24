@@ -9,7 +9,7 @@ You can also save worlds, a worldsave.json file should appear in the main DIR th
 Simply click "load world" in the game menu, and it should find your worldsave.json file.
 
 There CAN be music, but I deleted the .mp3 file.
-To restore it, just create a file named music.mp3 and it will aitoplay it at the start of the gmae.
+To restore it, just create a file named music.mp3 and it will autoplay it at the start of the gmae.
 
 You can summon experimental mobs by pressing "M" and "B".
 The "B" type mob has no texture. This is normal, and is a bug I might later fix.
